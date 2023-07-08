@@ -10,13 +10,21 @@ When the user makes a hand gesture, the project sends a corresponding keyboard c
 The project is implemented using Python and the OpenCV library. The machine learning model was trained using the Teachable Machine platform.
 
 The following controls are done with their respective gestures:
+
 **Start or Stop :** ![stop_start](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/39487be2-97e1-4fb5-9e90-fe975c411e8f)
+
 **Volume Up :** ![volume_up](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/8ef8f366-c5cc-4702-8ef4-3a6465b8c980)
+
 **Volume Down :** ![volume_down](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/c1339709-8e0d-455e-a14d-6df9cbc6cd98)
+
 **Full-Screen Mode :** ![max](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/4c96c203-fd3c-4dc8-bc88-8cdfe46c9c02)
+
 **Exit Full-Screen Mode :** ![min](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/8c27a493-33b0-4846-b262-1e8421de3d9e)
+
 **Skip Right by 5 sec :** ![right](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/e1ee6b30-f3d1-44f5-b980-e59f0654fc35)
+
 **Skip Left by 5 sec :** ![left](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/b748e28e-64aa-42f1-a38c-c9fd6b233392)
+
 
 **Project Benefits:**
 
