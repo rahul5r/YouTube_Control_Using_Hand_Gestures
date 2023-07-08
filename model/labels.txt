@@ -1,0 +1,8 @@
+0 free_hand
+1 left
+2 right
+3 v_up
+4 v_down
+5 max
+6 min
+7 stop
