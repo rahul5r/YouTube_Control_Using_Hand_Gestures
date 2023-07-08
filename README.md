@@ -1,7 +1,7 @@
 # YouTube_Control_Using_Hand_Gestures
-Project Title: Youtube Control using Hand Gestures
+**Project Title:** Youtube Control using Hand Gestures
 
-Project Description:
+**Project Description:**
 
 This project allows users to control YouTube videos using hand gestures. The project uses a webcam to capture the user's hand movements, and a machine learning model to identify the hand gestures. The machine learning model was trained on a dataset of hand gesture images, and can identify 8 different gestures: "v_up", "v_down", "right", "left", "max", "min", "stop", and "free_hand".
 
@@ -9,19 +9,19 @@ When the user makes a hand gesture, the project sends a corresponding keyboard c
 
 The project is implemented using Python and the OpenCV library. The machine learning model was trained using the Teachable Machine platform.
 
-Project Benefits:
+**Project Benefits:**
 
 This project can be used to make YouTube more accessible to people with disabilities. For example, people with limited mobility may find it difficult to use a keyboard or mouse to control YouTube videos. This project can allow them to control YouTube videos using their hands, which can be much easier and more natural.
 
 The project can also be used to make YouTube more fun and engaging. For example, users can use hand gestures to play games, control music playback, or interact with other users.
 
-Project Challenges:
+**Project Challenges:**
 
 One challenge of this project is that it requires a webcam to capture the user's hand movements. This may not be possible in all situations, such as when the user is watching YouTube on a mobile device.
 
 Another challenge is that the machine learning model may not be able to identify all hand gestures perfectly. This can lead to false positives, where the project sends a keyboard command when the user did not intend to make a gesture.
 
-Project Future Work:
+**Project Future Work:**
 
 One possible future work for this project is to improve the accuracy of the machine learning model. This could be done by training the model on a larger dataset of hand gesture images.
 
