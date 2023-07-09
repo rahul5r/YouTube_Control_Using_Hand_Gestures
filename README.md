@@ -9,21 +9,30 @@ When the user makes a hand gesture, the project sends a corresponding keyboard c
 
 The project is implemented using Python and the OpenCV library. The machine learning model was trained using the Teachable Machine platform.
 
+**Video Demonstration :**  https://youtu.be/wU_1KUNyMNk
+
 The following controls are done with their respective gestures:
 
-**Start or Stop :** ![stop_start](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/39487be2-97e1-4fb5-9e90-fe975c411e8f)
+**Start or Stop :** ![stop_start](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/e9d1f603-e893-440e-b533-61c0e11740d9)
 
-**Volume Up :** ![volume_up](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/8ef8f366-c5cc-4702-8ef4-3a6465b8c980)
 
-**Volume Down :** ![volume_down](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/c1339709-8e0d-455e-a14d-6df9cbc6cd98)
+**Volume Up :** ![volume_up](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/5feebab4-1c5b-4312-9ebd-09f3675b03c1)
 
-**Full-Screen Mode :** ![max](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/4c96c203-fd3c-4dc8-bc88-8cdfe46c9c02)
 
-**Exit Full-Screen Mode :** ![min](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/8c27a493-33b0-4846-b262-1e8421de3d9e)
+**Volume Down :**![volume_down](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/69ccd68d-3eb3-4d6f-a46d-5cfc3c67b8f5)
 
-**Skip Right by 5 sec :** ![right](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/e1ee6b30-f3d1-44f5-b980-e59f0654fc35)
 
-**Skip Left by 5 sec :** ![left](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/b748e28e-64aa-42f1-a38c-c9fd6b233392)
+**Full-Screen Mode :** ![max](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/bf049ddd-fbd0-4a9d-97f4-e6c16d9d9c74)
+
+
+**Exit Full-Screen Mode :**![min](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/07964b73-f473-4051-b546-f0bfbe177d1a)
+
+
+**Skip Right by 5 sec :**![right](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/788b6373-8a0b-4b0c-a280-8446f3f5eb8a)
+
+
+**Skip Left by 5 sec :**![left](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/7239b527-35ca-40eb-b8ed-4d2beecc9ab7)
+
 
 
 **Project Benefits:**
