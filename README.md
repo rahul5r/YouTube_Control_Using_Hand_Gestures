@@ -10,13 +10,20 @@ This project allows users to control YouTube videos using hand gestures. By leve
 
 | Command                | Image                                               | Function                                                     |
 |------------------------|-----------------------------------------------------|--------------------------------------------------------------|
-| Start or Stop          | ![stop_start](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/blob/main/assets/111962760/e9d1f603-e893-440e-b533-61c0e11740d9.gif) | Start or stop the YouTube video                               |
-| Volume Up              | ![volume_up](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/blob/main/assets/111962760/5feebab4-1c5b-4312-9ebd-09f3675b03c1.gif) | Increase the volume of the YouTube video                      |
-| Volume Down            | ![volume_down](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/blob/main/assets/111962760/69ccd68d-3eb3-4d6f-a46d-5cfc3c67b8f5.gif) | Decrease the volume of the YouTube video                      |
-| Full-Screen Mode       | ![max](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/blob/main/assets/111962760/bf049ddd-fbd0-4a9d-97f4-e6c16d9d9c74.gif) | Enter full-screen mode for the YouTube video                  |
-| Exit Full-Screen Mode  | ![min](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/blob/main/assets/111962760/5421e188-3de9-4f39-b665-3ec4521ef15c.gif) | Exit full-screen mode for the YouTube video                   |
-| Skip Right by 5 seconds| ![right](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/blob/main/assets/111962760/788b6373-8a0b-4b0c-a280-8446f3f5eb8a.gif) | Skip forward by 5 seconds in the YouTube video                |
-| Skip Left by 5 seconds | ![left](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/blob/main/assets/111962760/7239b527-35ca-40eb-b8ed-4d2beecc9ab7.gif) | Skip backward by 5 seconds in the YouTube video               |
+| Start or Stop          |![stop_start](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/a88c6b5c-01fa-40cd-b93f-7fbe6a01fefb)
+ | Start or stop the YouTube video                               |
+| Volume Up              |![volume_up](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/0bc2dd79-2efd-4b61-b323-47f4c35cdc48)
+ | Increase the volume of the YouTube video                      |
+| Volume Down            |![volume_down](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/e6b68771-bc0b-4fa1-bb2b-e278de55b65e)
+ | Decrease the volume of the YouTube video                      |
+| Full-Screen Mode       |![max](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/05ba7ac7-c28f-4e4f-a525-22f30f87474d)
+ | Enter full-screen mode for the YouTube video                  |
+| Exit Full-Screen Mode  |![min](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/36982d0b-be6e-4222-894e-bf8ce43632d9)
+ | Exit full-screen mode for the YouTube video                   |
+| Skip Right by 5 seconds|![right](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/20ddec7f-bf29-4158-a92c-65d8d15cd7e8)
+ | Skip forward by 5 seconds in the YouTube video                |
+| Skip Left by 5 seconds |![left](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/5c6da0b6-efa0-4a06-b230-9f637cf7db8d) 
+| Skip backward by 5 seconds in the YouTube video               |
 
 ## Project Benefits
 
@@ -54,10 +61,6 @@ This project was made possible with the following resources:
 ## Contributions
 
 Contributions to the project are welcome! If you have any suggestions, bug reports, or feature requests, please submit them via the [GitHub repository](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/issues).
-
-## License
-
-This project is licensed under the [MIT License](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/blob/main/LICENSE).
 
 Feel free to use, modify, and distribute this project in accordance with the license terms.
 
