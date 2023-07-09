@@ -10,8 +10,7 @@ This project allows users to control YouTube videos using hand gestures. By leve
 
 | Command                | Image                                               | Function                                                     |
 |------------------------|-----------------------------------------------------|--------------------------------------------------------------|
-| Start or Stop          |![stop_start](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/a88c6b5c-01fa-40cd-b93f-7fbe6a01fefb)
- | Start or stop the YouTube video                               |
+| Start or Stop          |![stop_start](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/a88c6b5c-01fa-40cd-b93f-7fbe6a01fefb) | Start or stop the YouTube video                               |
 | Volume Up              |![volume_up](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/0bc2dd79-2efd-4b61-b323-47f4c35cdc48) | Increase the volume of the YouTube video                      |
 | Volume Down            |![volume_down](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/e6b68771-bc0b-4fa1-bb2b-e278de55b65e) | Decrease the volume of the YouTube video                      |
 | Full-Screen Mode       |![max](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/05ba7ac7-c28f-4e4f-a525-22f30f87474d) | Enter full-screen mode for the YouTube video                  |
