@@ -47,7 +47,7 @@ To use the YouTube Control Using Hand Gestures project, follow these steps:
 git clone https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures.git
 cd YouTube_Control_Using_Hand_Gestures
 python main.py
-shell'''
+'''
 
 ## Acknowledgments
 
