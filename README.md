@@ -10,13 +10,13 @@ This project allows users to control YouTube videos using hand gestures. By leve
 
 | Command                | Image                                               | Function                                                     |
 |------------------------|-----------------------------------------------------|--------------------------------------------------------------|
-| Start or Stop          |![stop_start](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/a88c6b5c-01fa-40cd-b93f-7fbe6a01fefb) | Start or stop the YouTube video                               |
-| Volume Up              |![volume_up](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/0bc2dd79-2efd-4b61-b323-47f4c35cdc48) | Increase the volume of the YouTube video                      |
-| Volume Down            |![volume_down](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/e6b68771-bc0b-4fa1-bb2b-e278de55b65e) | Decrease the volume of the YouTube video                      |
-| Full-Screen Mode       |![max](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/05ba7ac7-c28f-4e4f-a525-22f30f87474d) | Enter full-screen mode for the YouTube video                  |
-| Exit Full-Screen Mode  |![min (1)](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/809a30c4-53a8-4e8d-8670-55f5735d36c2) | Exit full-screen mode for the YouTube video                   |
-| Skip Right by 5 seconds|![right](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/20ddec7f-bf29-4158-a92c-65d8d15cd7e8) | Skip forward by 5 seconds in the YouTube video                |
-| Skip Left by 5 seconds |![left](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/5c6da0b6-efa0-4a06-b230-9f637cf7db8d) | Skip backward by 5 seconds in the YouTube video               |
+| Start or Stop          |![image](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/dea67114-50d1-4fc4-ad4b-4fce85f629d4) | Start or stop the YouTube video                               |
+| Volume Up              |![image](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/5793674d-1c2f-4e41-8cd3-54b30a9605cc) | Increase the volume of the YouTube video                      |
+| Volume Down            |![image](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/bf2e7d70-f59d-4e17-861d-4853c0e13adf) | Decrease the volume of the YouTube video                      |
+| Full-Screen Mode       |![image](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/ffe25f5c-e124-46fc-a6ba-8f771bef322c) | Enter full-screen mode for the YouTube video                  |
+| Exit Full-Screen Mode  |![image](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/b71d84cb-7446-4627-8091-0dda5e874efc) | Exit full-screen mode for the YouTube video                   |
+| Skip Right by 5 seconds|![image](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/4a2eb96d-4c38-4728-ab27-d87a81095ed6) | Skip forward by 5 seconds in the YouTube video                |
+| Skip Left by 5 seconds |![image](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/639d0e1f-c498-43fd-aa32-83c39c441f42) | Skip backward by 5 seconds in the YouTube video               |
 
 ## Project Benefits
 
