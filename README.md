@@ -41,7 +41,16 @@ To enhance this project further, here are some potential areas of future develop
 
 ## Installation and Usage
 
-To set up and use the YouTube Control Using Hand Gestures project, follow the instructions provided in the [project repository](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures).
+To use the YouTube Control Using Hand Gestures project, follow these steps:
+
+1. Clone the repository:
+git clone    
+
+2. Navigate to the project directory:
+cd 
+
+3. Run the main Python script:
+python main.py
 
 ## Acknowledgments
 
