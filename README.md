@@ -1,7 +1,5 @@
 # YouTube Control Using Hand Gestures
 
-![YouTube Control Using Hand Gestures](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/blob/main/assets/111962760/banner.png)
-
 This project allows users to control YouTube videos using hand gestures. By leveraging computer vision and machine learning techniques, the project captures hand movements through a webcam and translates them into commands that interact with YouTube. Whether you want to adjust the volume, navigate through the video, or enter full-screen mode, this project enables intuitive control using your hands.
 
 [Click here](https://youtu.be/wU_1KUNyMNk) to watch the video demonstration.
@@ -10,8 +8,7 @@ This project allows users to control YouTube videos using hand gestures. By leve
 
 | Command                | Image                                               | Function                                                     |
 |------------------------|-----------------------------------------------------|--------------------------------------------------------------|
-| Free Hand         |![image](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/79554675-be90-4d2a-abb4-1a0b420397ce)
- | Do Nothing                               |
+| Free Hand         |![image](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/c1cd340b-568d-43a0-aa2c-5db386902387) | Do Nothing                               |
 | Start or Stop          |![image](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/dea67114-50d1-4fc4-ad4b-4fce85f629d4) | Start or stop the YouTube video                               |
 | Volume Up              |![image](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/5793674d-1c2f-4e41-8cd3-54b30a9605cc) | Increase the volume of the YouTube video                      |
 | Volume Down            |![image](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/bf2e7d70-f59d-4e17-861d-4853c0e13adf) | Decrease the volume of the YouTube video                      |
