@@ -25,7 +25,7 @@ The following controls are done with their respective gestures:
 **Full-Screen Mode :** ![max](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/bf049ddd-fbd0-4a9d-97f4-e6c16d9d9c74)
 
 
-**Exit Full-Screen Mode :**![min](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/07964b73-f473-4051-b546-f0bfbe177d1a)
+**Exit Full-Screen Mode :** ![min (1)](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/5421e188-3de9-4f39-b665-3ec4521ef15c)
 
 
 **Skip Right by 5 sec :**![right](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/788b6373-8a0b-4b0c-a280-8446f3f5eb8a)
