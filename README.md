@@ -8,7 +8,7 @@ This project allows users to control YouTube videos using hand gestures. By leve
 
 | Command                | Image                                               | Function                                                     |
 |------------------------|-----------------------------------------------------|--------------------------------------------------------------|
-| Free Hand         |![image](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/c1cd340b-568d-43a0-aa2c-5db386902387) | Do Nothing                               |
+| Free Hand         |![image](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/7b4aff94-fd31-460d-8814-30b6ec9d393f) | Do Nothing                               |
 | Start or Stop          |![image](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/dea67114-50d1-4fc4-ad4b-4fce85f629d4) | Start or stop the YouTube video                               |
 | Volume Up              |![image](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/5793674d-1c2f-4e41-8cd3-54b30a9605cc) | Increase the volume of the YouTube video                      |
 | Volume Down            |![image](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/bf2e7d70-f59d-4e17-861d-4853c0e13adf) | Decrease the volume of the YouTube video                      |
@@ -53,8 +53,6 @@ This project was made possible with the following resources:
 ## Contributions
 
 Contributions to the project are welcome! If you have any suggestions, bug reports, or feature requests, please submit them via the [GitHub repository](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/issues).
-
-Feel free to use, modify, and distribute this project in accordance with the license terms.
 
 ---
 
