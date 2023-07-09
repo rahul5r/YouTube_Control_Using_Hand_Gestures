@@ -1,56 +1,54 @@
-# YouTube_Control_Using_Hand_Gestures
-**Project Title:** Youtube Control using Hand Gestures
+YouTube Control Using Hand Gestures
+YouTube Control Using Hand Gestures
 
-**Project Description:**
+This project allows users to control YouTube videos using hand gestures. By leveraging computer vision and machine learning techniques, the project captures hand movements through a webcam and translates them into commands that interact with YouTube. Whether you want to adjust the volume, navigate through the video, or enter full-screen mode, this project enables intuitive control using your hands.
 
-This project allows users to control YouTube videos using hand gestures. The project uses a webcam to capture the user's hand movements, and a machine learning model to identify the hand gestures. The machine learning model was trained on a dataset of hand gesture images, and can identify 8 different gestures: "v_up", "v_down", "right", "left", "max", "min", "stop", and "free_hand".
+Click here to watch the video demonstration.
 
-When the user makes a hand gesture, the project sends a corresponding keyboard command to YouTube. For example, if the user makes the "v_up" gesture, the project will send a keyboard command to increase the volume of the YouTube video. The project also supports a "free_hand" gesture, which means that the user is not making any specific gesture. In this case, the project will not send any keyboard commands to YouTube.
+Gesture Controls
+The following gestures can be used to control various aspects of YouTube:
 
-The project is implemented using Python and the OpenCV library. The machine learning model was trained using the Teachable Machine platform.
+1. Start or Stop: stop_start
 
-**Video Demonstration :**  https://youtu.be/wU_1KUNyMNk
+2. Volume Up: volume_up
 
-The following controls are done with their respective gestures:
+3. Volume Down: volume_down
 
-**Start or Stop :** ![stop_start](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/e9d1f603-e893-440e-b533-61c0e11740d9)
+4. Full-Screen Mode: max
 
+5. Exit Full-Screen Mode: min
 
-**Volume Up :** ![volume_up](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/5feebab4-1c5b-4312-9ebd-09f3675b03c1)
+6. Skip Right by 5 seconds: right
 
+7. Skip Left by 5 seconds: left
 
-**Volume Down :**![volume_down](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/69ccd68d-3eb3-4d6f-a46d-5cfc3c67b8f5)
+Project Benefits
+This project offers several benefits:
 
+Accessibility: It provides an alternative control mechanism for individuals with disabilities or limited mobility, empowering them to interact with YouTube content effortlessly using hand gestures.
+Engagement: Users can enjoy a more immersive and interactive experience by using intuitive gestures to control games, music playback, and engage with other users on YouTube.
+Project Challenges
+While this project presents exciting possibilities, it also comes with a few challenges:
 
-**Full-Screen Mode :** ![max](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/bf049ddd-fbd0-4a9d-97f4-e6c16d9d9c74)
+Webcam Dependency: The project relies on a webcam to capture hand movements, which may limit its usage on devices without a built-in or external webcam, such as mobile devices.
+Gesture Accuracy: The machine learning model used to recognize gestures may occasionally produce false positives or struggle to identify certain gestures accurately. This limitation can be mitigated through further refinement and training with larger datasets.
+Project Future Work
+To enhance this project further, here are some potential areas of future development:
 
+Improved Gesture Recognition: Investing in training the machine learning model on larger and more diverse datasets can enhance the accuracy and robustness of gesture recognition.
+Expanded Gesture Support: Introducing support for additional hand gestures would enable users to have more control options for YouTube videos.
+Enhanced Accessibility: Exploring adaptations of the project for touchscreen devices could extend accessibility to a wider range of users.
+Installation and Usage
+To set up and use the YouTube Control Using Hand Gestures project, follow the instructions provided in the project repository.
 
-**Exit Full-Screen Mode :** ![min (1)](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/5421e188-3de9-4f39-b665-3ec4521ef15c)
+Acknowledgments
+This project was made possible with the following resources:
 
+OpenCV: An open-source computer vision library.
+Teachable Machine: A platform for training machine learning models with ease.
+Contributions
+Contributions to the project are welcome! If you have any suggestions, bug reports, or feature requests, please submit them via the GitHub repository.
 
-**Skip Right by 5 sec :**![right](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/788b6373-8a0b-4b0c-a280-8446f3f5eb8a)
+Feel free to use, modify, and distribute this project in accordance with the license terms.
 
-
-**Skip Left by 5 sec :**![left](https://github.com/racker9r/YouTube_Control_Using_Hand_Gestures/assets/111962760/7239b527-35ca-40eb-b8ed-4d2beecc9ab7)
-
-
-
-**Project Benefits:**
-
-This project can be used to make YouTube more accessible to people with disabilities. For example, people with limited mobility may find it difficult to use a keyboard or mouse to control YouTube videos. This project can allow them to control YouTube videos using their hands, which can be much easier and more natural.
-
-The project can also be used to make YouTube more fun and engaging. For example, users can use hand gestures to play games, control music playback, or interact with other users.
-
-**Project Challenges:**
-
-One challenge of this project is that it requires a webcam to capture the user's hand movements. This may not be possible in all situations, such as when the user is watching YouTube on a mobile device.
-
-Another challenge is that the machine learning model may not be able to identify all hand gestures perfectly. This can lead to false positives, where the project sends a keyboard command when the user did not intend to make a gesture.
-
-**Project Future Work:**
-
-One possible future work for this project is to improve the accuracy of the machine learning model. This could be done by training the model on a larger dataset of hand gesture images.
-
-Another possible future work is to add support for more hand gestures. This could allow users to control YouTube videos in more ways.
-
-Finally, it would be interesting to explore ways to make this project more accessible to people with disabilities. For example, the project could be adapted to work with a touchscreen device.
+We hope this project enhances your YouTube experience and brings joy to your interactions with video content. Happy controlling!
