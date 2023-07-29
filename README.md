@@ -4,6 +4,8 @@ This project allows users to control YouTube videos using hand gestures. By leve
 
 [Click here](https://youtu.be/wU_1KUNyMNk) to watch the video demonstration.
 
+Update : The new Trained Model is trained with 1000+ images for each gesture.
+
 ## Gesture Controls
 
 | Command                | Image                                               | Function                                                     |
