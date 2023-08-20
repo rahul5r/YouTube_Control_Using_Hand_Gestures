@@ -4,29 +4,6 @@ This project allows users to control YouTube videos using hand gestures. By leve
 
 [Click here](https://youtu.be/wU_1KUNyMNk) to watch the video demonstration.
 
-Update : The new Trained Model is trained with 1000+ images for each gesture.
-
-**In the context of the Olympics**, YouTube Control Using Hand Gestures project could be utilized in various interesting ways to enhance the overall experience for viewers, athletes, and event organizers. Here are some ideas:
-
-**1. Virtual Olympic Experience:** Create a virtual Olympic experience for viewers by allowing them to control their viewing preferences using hand gestures. Users can navigate through different events, access real-time athlete profiles and statistics, and select their preferred camera angles during live broadcasts.
-
-**2. Athlete Performance Analysis:** During training sessions or actual competitions, coaches and athletes could use the hand gesture control system to review and analyze their performances. The ability to pause, rewind, and playback specific moments in videos using gestures can aid in identifying strengths and weaknesses for performance improvement.
-
-**3. Fan Engagement and Interaction:** Implement hand gesture-based controls for interactive fan engagement. Spectators can participate in virtual cheering, voting for their favorite athletes, or even triggering light shows and special effects in the stadiums using hand gestures.
-
-**4. Accessibility for Athletes with Disabilities:** Extend the accessibility aspect of your project to benefit athletes with disabilities. For example, athletes with limited mobility could control their video playback during training sessions or analyze their performances using hand gestures, empowering them to take charge of their training and improvements.
-
-**5. Event Highlights and Social Sharing:** Allow users to create and share personalized highlight reels of Olympic events using hand gestures. They can mark specific moments during competitions and compile them into short clips for social media sharing.
-
-**6. Referee and Official Support:** Integrate the hand gesture control system into the officiating process. Referees could review contentious moments during competitions by controlling video playback using gestures, ensuring fair decision-making.
-
-**7. Athlete Video Journals:** Enable athletes to maintain video journals by recording their thoughts, reflections, and training progress using hand gestures. This feature could be used as a personal development tool or for sharing insights with coaches and teammates.
-
-**8. Olympic Education and Archives:** Build an interactive Olympic archive where users can explore historical Olympic moments and learn about the evolution of various sports using gesture-based controls for navigation and playback.
-
-**9. Virtual Coaching Sessions:** Extend the accessibility of coaching by allowing athletes in remote locations to have virtual coaching sessions with trainers and experts. The hand gesture controls could facilitate easy communication and review of training videos.
-
-**10. Gamified Olympic Challenges:** Develop interactive games related to Olympic sports, where users can virtually participate using hand gestures. For example, users can simulate a long jump, shot put, or archery competition by performing gestures, making the Olympics more engaging and fun.
 
 ## Gesture Controls
 
